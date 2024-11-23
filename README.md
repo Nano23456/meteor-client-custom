@@ -3,7 +3,8 @@
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
 </p>
 
-<h1 align="center">Meteor</h1>
+<h1 align="center">Custom Meteor Client</h1>
+<p align="center">This is a fork and not the original, shit will be broken. Use and fork at your own risk.</p>
 <p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
 
 <div align="center">
