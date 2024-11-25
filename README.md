@@ -8,17 +8,11 @@
 Follow the [guide](https://meteorclient.com/faq/installation) on the wiki.
 
 ## Contributions
-We will review and help with all reasonable pull requests as long as the guidelines below are met.
-
-- The license header must be applied to all java source code files.
-- IDE or system-related files should be added to the `.gitignore`, never committed in pull requests.
-- In general, check existing code to make sure your code matches relatively close to the code already in the project.
-- Favour readability over compactness.
-- If you need help, check out the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) for a reference.
+nay ir may not be considred
 
 ## Donations
-All of their work is completely free and non-profit (donations pay only for hosting costs), therefore their are very grateful for all donations made to support us in running our community.  
-Donations can be made via our [website](https://meteorclient.com/donate) and the minimum amount to get donor benefits is €5.  
+All of their work is completely free and non-profit (donations pay only for hosting costs), therefore they're very grateful for all donations made to support them in running their community.  
+Donations can be made via [website](https://meteorclient.com/donate) 
 
 ## Credits
 [Cabaletta](https://github.com/cabaletta) and [WagYourTail](https://github.com/wagyourtail) for [Baritone](https://github.com/cabaletta/baritone)  
